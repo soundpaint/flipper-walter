@@ -4,10 +4,15 @@ This ongoing project is about a flipper designed and constructed in
 the early 70s by my father, Walter Reuter (sen), which I am going to
 re-animate, overhaul and modernize.
 
+![Fig. 1: Flipper Playing Field](playing-field.jpg)
+
+Fig. 1: Flipper Playing Field
+
 ## Step 1: Documentation
 I have documented the flipper with a series of photo shoots, including
-inside details.  Since github is more about code than photos, I upload
-the photos elsewhere (TODO).
+inside details.  Since github is more about code than photos, I have
+uploaded the photos
+[elsewhere](https://photos.app.goo.gl/bx4RdFARAU32SBQK6).
 
 ## Step 2: Reverse Engineering
 So far, I have reverse engineered the complete game automaton,
